@@ -99,5 +99,5 @@ Python 3.9+ recommended. Run in Jupyter Notebook or JupyterLab.
 
 ## License
 
-This project is protected by copyright. See the [`LICENSE`](LICENSE) file for full terms.  
-**Reusing, copying, modifying, or redistributing** the code without explicit written permission from the author is not permitted.
+This project is released under the [MIT License](LICENSE).  
+You are free to use, copy, modify, and distribute this code, provided the original copyright notice and license text are retained.
